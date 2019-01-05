@@ -8,3 +8,5 @@ Currently I am working on IoT and analytics vertical so most of writing will be 
 ## Motivation
 I want to improve my writing skills as well as keep track of what I am learning so I can refer to this knowledge base whenever required in future. This will also help others with similar problems to get opinions of co-minded fellow.
 
+## Wiki
+All pages can be seen on wiki section of this github repository. 
